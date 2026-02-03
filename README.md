@@ -103,6 +103,9 @@ TexStFusion is evaluated on **15 derived datasets** using:
 * ✅ Best **SSIM on 13/15 datasets**
 * ✅ Strong **CLIP-T × SSIM trade-off**, indicating superior content composability
 
+This figure shows the comparison of our model with the state-of-the-art methods.
+![alt text](https://github.com/SuhasHegde25/TexStFusion/blob/main/TexStFusion_qual_comparison.jpeg)
+
 Compared against:
 
 * ControlNet
@@ -201,7 +204,6 @@ These are discussed in Section 5.4 of the paper .
 This figure shows the sample inputs and generated images from the model.
 ![alt text](https://github.com/SuhasHegde25/SubjectNet/blob/main/R_Cover_New%20(1).jpeg)
 
-This figure shows the comparison of our model with the state-of-the-art methods. Zoom-in for clear visibility.
-![alt text](https://github.com/SuhasHegde25/SubjectNet/blob/main/QualComparison%20(2).png)
+
 
 
