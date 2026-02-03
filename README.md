@@ -20,6 +20,8 @@ Text-to-Image (T2I) diffusion models generate highly realistic images from text 
 
 Crucially, this is achieved **without fine-tuning the base diffusion model**, preserving its generative prior while enabling precise control.
 
+This figure shows the sample inputs and generated images from the model.
+![alt text](https://github.com/SuhasHegde25/SubjectNet/blob/main/R_Cover_New%20(1).jpeg)
 ---
 
 ## ✨ Key Contributions
@@ -180,29 +182,18 @@ These are discussed in Section 5.4 of the paper .
 ## 📚 Citation
 
 ```bibtex
-@article{hegde2024texstfusion,
-  title={TexStFusion: A Controllable Diffusion Model using Textural, Structural, and Textual Feature Fusion},
-  author={Hegde, Suhas and Tiwari, Aruna},
-  journal={arXiv preprint},
-  year={2024}
+@article{Hegde2025TexStFusion,
+  title   = {TexStFusion: A controllable diffusion model using textural, structural, and textual feature fusion},
+  author  = {Hegde, Suhas and Tiwari, Aruna},
+  journal = {Signal, Image and Video Processing},
+  year    = {2025},
+  volume  = {19},
+  pages   = {741},
+  doi     = {10.1007/s11760-025-04367-2},
+  publisher = {Springer}
 }
+
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This figure shows the sample inputs and generated images from the model.
-![alt text](https://github.com/SuhasHegde25/SubjectNet/blob/main/R_Cover_New%20(1).jpeg)
 
 
 
