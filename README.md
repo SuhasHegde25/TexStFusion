@@ -2,7 +2,7 @@
 
 **TexStFusion: A Controllable Diffusion Model using Textural, Structural, and Textual Feature Fusion**
 
-📄 *Paper*: TexStFusion (IIT Indore) ![link]([assets/texstfusion_architecture.png](https://link.springer.com/article/10.1007/s11760-025-04367-2)
+📄 *Paper*: TexStFusion (IIT Indore) ![link](https://link.springer.com/article/10.1007/s11760-025-04367-2)
 🧠 *Area*: Controllable Text-to-Image Diffusion
 🏗️ *Backbones*: Stable Diffusion v1.5 / v2.1 / SDXL
 
