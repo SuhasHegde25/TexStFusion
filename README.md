@@ -70,7 +70,7 @@ TexStFusion decomposes image information into two complementary components:
 
 ## 🏗 Architecture
 
-![TexStFusion Architecture](assets/texstfusion_architecture.png)
+![TexStFusion Architecture](https://github.com/SuhasHegde25/TexStFusion/blob/main/TexStFusion_Architecture.png)
 
 **Pipeline**:
 
