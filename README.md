@@ -1,10 +1,3 @@
-Awesome — I’ve gone through the full paper PDF and I can generate a **research-grade GitHub README** that matches top-tier ML repos.
-
-Below is a **copy-paste ready `README.md`**, written directly from your paper content .
-This version is **NeurIPS / ICCV / ICML style**: technical, precise, and honest about scope & limitations.
-
----
-
 # TexStFusion
 
 **TexStFusion: A Controllable Diffusion Model using Textural, Structural, and Textual Feature Fusion**
